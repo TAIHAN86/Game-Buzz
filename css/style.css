@@ -250,7 +250,7 @@ body{
     display: flex;
     justify-content: space-evenly;
     background-color:#253162;
-    height: 500px;
+    height: 300px;
     color: #fff;
     background-image: url(../img/artefacts-features.png);
     background-size: cover;
